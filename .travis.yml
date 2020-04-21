@@ -8,4 +8,4 @@ before_install:
 script:
   - docker run -e CI=true jjapp/docker-react npm run test
 
-  -- added comment
+  -- added comment by jyoti

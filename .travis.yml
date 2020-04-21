@@ -8,4 +8,4 @@ before_install:
 script:
   - docker run -e CI=true jjapp/docker-react npm run test
 
-  -- added username locally
+  -- added comment
